@@ -1,0 +1,3 @@
+action="True"
+interval="0 * * * *"
+media_folder=""
