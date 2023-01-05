@@ -1,3 +1,3 @@
-action="True"
-interval="0 * * * *"
-media_folder=""
+action="True" #If not True, it will run through the processes without making changes and will only log what could have been removed and converted.
+interval="0 * * * *" #My attempt to setting a frequency, this is currently not working
+media_folder="" #Top folder location of media files that you want to be converted and dupes removed
